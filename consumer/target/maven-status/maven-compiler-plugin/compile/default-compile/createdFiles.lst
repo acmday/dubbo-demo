@@ -1,0 +1,5 @@
+com/acmday/dubbo/demo/consumer/config/DubboConsumerConfig.class
+com/acmday/dubbo/demo/consumer/ApplicationLoader.class
+com/acmday/dubbo/demo/consumer/service/IGreetingService.class
+com/acmday/dubbo/demo/consumer/service/impl/GreetingServiceImpl.class
+com/acmday/dubbo/demo/consumer/controller/GreetingController.class

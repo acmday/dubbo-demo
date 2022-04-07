@@ -1,0 +1,5 @@
+/Users/wushaofeng/workspace/github/dubbo-demo/consumer/src/main/java/com/acmday/dubbo/demo/consumer/controller/GreetingController.java
+/Users/wushaofeng/workspace/github/dubbo-demo/consumer/src/main/java/com/acmday/dubbo/demo/consumer/service/IGreetingService.java
+/Users/wushaofeng/workspace/github/dubbo-demo/consumer/src/main/java/com/acmday/dubbo/demo/consumer/service/impl/GreetingServiceImpl.java
+/Users/wushaofeng/workspace/github/dubbo-demo/consumer/src/main/java/com/acmday/dubbo/demo/consumer/config/DubboConsumerConfig.java
+/Users/wushaofeng/workspace/github/dubbo-demo/consumer/src/main/java/com/acmday/dubbo/demo/consumer/ApplicationLoader.java
