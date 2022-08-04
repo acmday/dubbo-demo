@@ -14,6 +14,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ApplicationLoader {
     public static void main(String[] args) {
         SpringApplication.run(ApplicationLoader.class, args);
-        log.info("------- provider uccess！！！ -------");
+        log.info("------- provider success！！！ -------");
     }
 }
