@@ -36,7 +36,7 @@ public class DubboProviderConfig {
         RegistryConfig registryConfig = new RegistryConfig();
         registryConfig.setProtocol("nacos");
         registryConfig.setAddress("127.0.0.1");
-        registryConfig.setPort(8840);
+        registryConfig.setPort(8848);
         return registryConfig;
     }
 
