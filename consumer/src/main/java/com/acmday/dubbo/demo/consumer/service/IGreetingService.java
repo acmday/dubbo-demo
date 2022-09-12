@@ -8,4 +8,6 @@ package com.acmday.dubbo.demo.consumer.service;
 public interface IGreetingService {
 
     String greeting(String message);
+
+    String hello(String message);
 }

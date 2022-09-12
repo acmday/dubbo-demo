@@ -18,9 +18,15 @@ public class GreetingController {
     @Resource
     private IGreetingService greetingService;
 
-    @GetMapping("/get")
+    @GetMapping("/echo")
     public String greeting(String message) {
         log.info("act=greeting message={}", message);
         return greetingService.greeting((message));
+    }
+
+    @GetMapping("/hello")
+    public String hello(String message) {
+        log.info("act=hello message={}", message);
+        return greetingService.hello("acmday");
     }
 }

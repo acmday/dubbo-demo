@@ -7,5 +7,11 @@ package com.acmday.dubbo.demo.api.facade;
  */
 public interface IEchoService {
 
+    /**
+     * 验证dubbo自动加载、服务暴露流程
+     *
+     * @param message
+     * @return
+     */
     String echo(String message);
 }
