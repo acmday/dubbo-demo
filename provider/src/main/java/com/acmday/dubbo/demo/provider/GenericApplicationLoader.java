@@ -34,6 +34,7 @@ public class GenericApplicationLoader {
 //        ConfigCenterConfig configCenterConfig = new ConfigCenterConfig();
 //        configCenterConfig.setAddress("nacos://127.0.0.1:2181");
 //        serviceConfig.setConfigCenter(configCenterConfig);
+//        helloServiceConfig.setScope("local");
         // 服务暴露
         helloServiceConfig.export();
 
